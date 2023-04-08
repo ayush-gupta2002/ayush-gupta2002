@@ -1,7 +1,7 @@
 ![Welcome Banner](banner.gif)
 
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
+<img align="left" height="270px" alt="hello_world" src="./96584604.png" />
 
 <h3> :man: &nbsp;About Me </h3>
 
